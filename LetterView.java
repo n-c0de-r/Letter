@@ -27,7 +27,7 @@ public class LetterView extends JFrame
      */
     public LetterView(Letter env, int rows, int cols)
     {
-        super("Letter to Professor Weber-Wulff");
+        super("Letter to Professor");
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setLocation(20, 20);
         this.env = env;
